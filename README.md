@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GaneshAmale
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently Job Searching
+- 🌱 I’m currently Brainvire PVT LTD ahmedabad As Python Odoo Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...-8329438029
+- 📫 How to reach me ...-8600593922
 
 <!---
 GaneshAmale/GaneshAmale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
